@@ -1,2 +1,2 @@
-# COVID-19_TRACKER_HTML_CSS_JAVASCRIPT
+# Indonesia COVID-19 Tracker
 COVID-19 with HTML5, CSS3 and JavaScript
